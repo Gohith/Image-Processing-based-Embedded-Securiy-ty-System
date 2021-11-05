@@ -21,7 +21,7 @@ void fcm_start(void)
 	esp_http_client_handle_t client = esp_http_client_init(&config);
 	esp_http_client_set_method(client,  HTTP_METHOD_POST);
 
-	esp_http_client_set_header(client, "Authorization", "key=AAAAelnP2Fk:APA91bEnpOiUHxTtFeCelTiXybTI0Vc6t-kLjryMZt-hj0duRb2GxHTiNBcddJFt-_9qcVcvGmOy4nZkJC3usXpEzrz2kdjXo6HJLqIeYYl3F80E3IFQnPa07tsDwHYzE07swSHywMP5");
+	esp_http_client_set_header(client, "Authorization", "key=++++++++");
 
 	esp_http_client_set_header(client, "Content-Type", "application/json");
 	
