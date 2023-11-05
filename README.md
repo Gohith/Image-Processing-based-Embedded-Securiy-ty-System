@@ -1,12 +1,12 @@
 # Image-Processing-based-Embedded-Security-System
 
-These are set of files for developing IoT based firmware for ESP32 using IDF(IoT Development Framework) provided by espressif. The files were rusty, definitely need to look :()
+These are set of files for developing IoT based firmware for ESP32 using IDF(IoT Development Framework) provided by espressif. The files were rusty, definitely need to look :()<br />
 Most of the files are self explanatory and feasibly understandable by mid level experienced embedded C programmer. Contents from basic GPIO testing to WIFI and Bluetooth Mesh were available. 
 In brief, list of major concept's widely used in IoT communication and security with respect to files were:<br />
 - Advanced Encryption Standard<br />
 - Bluetooth Connection (Simple Serial Data Protocol Transfer)<br />
 - MESH<br />
-- Firmare Over The Air (OTA)<br />
+- Firmware Over The Air (OTA)<br />
 - Pulse Width Modulation of in-built LED<br />
 - UART Event functionality<br />
 - Simple Network Time Protocol<br />
