@@ -15,7 +15,7 @@ In brief, list of major concept's widely used in IoT communication and security 
 - JSON object and Items creation https://github.com/Gohith/Image-Processing-based-Embedded-Security-System/blob/main/json.c <br /><br />
 - Firebase Sample https://github.com/Gohith/Image-Processing-based-Embedded-Security-System/blob/main/firebase_test.c<br /><br />
 - BT Scan https://github.com/Gohith/Image-Processing-based-Embedded-Security-System/blob/main/ble_scan.c and WIFI Scan https://github.com/Gohith/Image-Processing-based-Embedded-Security-System/blob/main/WiFi_Details.c <br /><br />
-- HTTP/S Connection ping https://github.com/Gohith/Image-Processing-based-Embedded-Security-System/blob/main/https_ping.c and test https://github.com/Gohith/Image-Processing-based-Embedded-Security-System/blob/main/http_test.c and sample https://github.com/Gohith/Image-Processing-based-Embedded-Security-System/blob/main/http_sample.c<br /><br />
+- HTTP/S Connection ping https://github.com/Gohith/Image-Processing-based-Embedded-Security-System/blob/main/https_ping.c and <br /> - test https://github.com/Gohith/Image-Processing-based-Embedded-Security-System/blob/main/http_test.c <br /> - sample https://github.com/Gohith/Image-Processing-based-Embedded-Security-System/blob/main/http_sample.c<br /><br />
 
 For detailed understanding of ESP32 and it's siblings please have a look at offiial source "http://esp32.net/" and from river to ocean here "https://docs.espressif.com/projects/esp-idf/en/latest/esp32/"
 Enjoy the embedded system knowledge.<br />
